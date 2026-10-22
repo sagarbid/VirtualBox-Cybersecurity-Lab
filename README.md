@@ -18,7 +18,7 @@ This lab simulates a small, isolated enterprise network for safe experimentation
 |---|---|---|
 | **Kali Linux** | Attacker machine (Nmap, Hydra, Metasploit, Wireshark) | Every other project in this portfolio |
 | **Ubuntu Server** | Vulnerable target (Apache, OpenSSH) | SSH brute-force / log analysis exercises |
-| **Windows** | Client/RDP target (Event Log auditing enabled) | [RDP brute-force → Splunk detection](https://github.com/sagarbid/rdp-bruteforce-splunk-detection), Wazuh/Splunk SIEM projects |
+| **Windows** | Client/RDP target (Event Log auditing enabled) |
 
 ## 🏗️ Lab Topology
 
